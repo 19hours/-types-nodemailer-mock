@@ -1,0 +1,9 @@
+{
+  "name": "@types/nodemailer-mock",
+  "description": "Type declaration for nodemailer-mock",
+  "version": "1.0.0",
+  "main": "index.d.ts",
+  "author": "Kevin Chu",
+  "license": "MIT",
+  "private": false
+}
